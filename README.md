@@ -1,4 +1,5 @@
-# curso-frontend
+
+
 
 # GIt
 ## versionamneto
@@ -15,12 +16,11 @@
  Arquivo B | Versão 1 | Versão 2
 
  ## instalação do Git
- http://git-scm.com/
+ https://git-scm.com/
 
- windows: http://git-scm.com/download/win
- Linux (apt-get): sudo apt-get install git
- Mac (brew): brew install git
-
+windows: https://git-scm.com/download/win
+Linux (apt-get): sudo apt-get install git
+Mac (brew): brew install git
 
  ## Criar conta no GitHub
 
@@ -33,5 +33,4 @@
 
 ## GitFlow
 Fluxo do Git
-
 
