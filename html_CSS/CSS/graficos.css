@@ -1,0 +1,36 @@
+
+div {
+    margin: 40px auto;
+}
+
+
+/*circulo*/
+#grafico-01 {
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+#grafico-01 img {
+    width: 100%;
+    height: auto;
+}
+
+#grafico-02 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-width: ;
+}
+
+#imagem-vetorial {
+    width: 200px;
+}
+
+#canvas {
+    height: 300px;
+    width: 300;
+}
