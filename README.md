@@ -29,6 +29,11 @@ Mac (brew): brew install git
  ## Comits
  Informações alteradas
   - após testado todo seu código
+  - git add *
+  -git commit -m "mensagem"
+  -git push (enviar alteração para o repositório)
+  -git pull (puxar alterações do servidor
+  
 
 
 ## GitFlow
